@@ -10,7 +10,7 @@ What inspired me to make this project? During my lab practical examination, we w
 
 I never thought of it. It was very simple—the same logic to check the number of arguments (`$# > 1` = error). It was very simple logic, yet I didn't think of the "error," even though I knew the solution. This made me realize the clear difference between an engineer's and a student's thinking process. This project is a final closure to this course and my inspiration to explore advanced Operating Systems.
 
-## Technical Details 🛠️
+## Technical Details 
 
 *   **Environment:** Built and tested on VMware (Linux).
 *   **Logic:** Implemented using nested switch cases and if-else conditions for comprehensive input validation.
